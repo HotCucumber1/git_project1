@@ -3,6 +3,7 @@ def main():
     print('-----test1-----')
     print('-----test2-----')
     print('-----test3-----')
+    print('-----table-----')
 
 
 if __name__ == '__main__':
